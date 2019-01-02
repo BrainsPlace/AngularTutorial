@@ -1,0 +1,6 @@
+applications:
+-   name: AngularTutorial
+    memory: 100M
+    disk_quota: 100M
+    instances: 1
+    buildpack: staticfile_buildpack
